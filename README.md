@@ -1,0 +1,2 @@
+# Magneq-software
+Practice-purpuse
